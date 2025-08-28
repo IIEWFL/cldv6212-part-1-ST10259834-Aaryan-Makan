@@ -3,8 +3,9 @@
     "",
     "\\ABC Retail",
     "\\ABC Retail\\Views",
+    "\\ABC Retail\\Views\\Queue",
     "\\ABC Retail\\Views\\Shared"
   ],
-  "SelectedNode": "\\ABC Retail\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ABC Retail\\Views\\Queue\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
